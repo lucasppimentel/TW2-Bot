@@ -8,5 +8,5 @@ line 30, after that the code should be fine.
 
  That's the first version of the code, it looks more like a test, it still needs
 some improvement, both in intelligence and in coding, I'm still using the time
-package to compensate for the internet delay, further more I'll implement wait.until
-commands, wich should solve the crashing problems.
+package to compensate for the internet delay, I have some other ideas on how to solve the 
+problem, and I'll implement them in the next version.
